@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+gudhi
+networkx
+tqdm
+ripser
+persim

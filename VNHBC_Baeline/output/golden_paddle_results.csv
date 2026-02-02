@@ -1,0 +1,15 @@
+season,week,contestant,rank_without_gp,rank_with_gp,saved
+2,7,Contestant_9,4.0,3.0,True
+9,9,Contestant_96,4.0,4.0,False
+12,8,Contestant_135,5.0,5.0,False
+13,2,Contestant_138,11.0,11.0,False
+13,3,Contestant_145,10.0,10.0,False
+14,8,Contestant_154,5.0,4.0,True
+15,6,Contestant_163,8.0,3.0,True
+15,8,Contestant_162,6.0,6.0,False
+18,8,Contestant_200,6.0,6.0,False
+18,10,Contestant_201,4.0,3.0,True
+25,7,Contestant_298,7.0,7.0,False
+25,9,Contestant_292,5.0,4.0,True
+26,2,Contestant_302,7.0,5.0,True
+28,8,Contestant_322,7.0,7.0,False
